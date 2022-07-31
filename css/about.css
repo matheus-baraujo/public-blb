@@ -1,0 +1,27 @@
+/* css - conteudo da pagina about us */
+
+.content-about{
+    background-color: white;
+    padding: 3%;
+}
+
+.topo-pagina-about{
+    padding-top: 5%;
+    padding-bottom: 3%;
+    color: black;
+}
+
+.sobre{
+    margin-top: 5px;
+    max-height: fit-content;
+}
+
+.sobre .texto1{
+    color: gray;
+    font-weight: 300;
+}
+
+.sobre .texto2{
+    color: black;
+    font-weight: 600;
+}

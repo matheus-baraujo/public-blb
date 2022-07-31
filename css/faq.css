@@ -1,0 +1,18 @@
+/* css - conteudo da pagina faq */
+
+.content-faq{
+    background-image: url(../images/fundo-faq.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4%;
+    color: white;
+}
+
+.topo-pagina-faq{
+    padding-top: 5%;
+}
+
+.faq{
+    padding: 15px;
+}

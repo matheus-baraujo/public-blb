@@ -1,0 +1,37 @@
+/* css - conteudo da pagina services */
+
+.content-services{
+    background-image: url(../images/fundo-servicos.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4%;
+    color: white;
+}
+
+.topo-pagina-servicos{
+    padding-top: 10%;
+    padding-bottom: 4%;
+}
+
+.services{
+    padding-bottom: 4%;
+}
+
+.subtitulo{
+    font-weight: bold;
+}
+
+.banner{
+    position: relative;
+    padding-top: 3%;
+}
+
+.texto-imagem{
+    color: white;
+    transform: rotate(-90deg);
+    position: absolute;
+    top: 65%;
+    left: -3%;
+    font-weight: bold;
+}

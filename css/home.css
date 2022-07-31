@@ -1,0 +1,51 @@
+/* Pagina inicio */
+
+.content-home{
+    background-color: black;
+    color: white;
+}
+
+.topo-pagina-inicio{
+    background-image: url("../images/imagem-topo-inicio.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+.texto-topo-inicio{
+    padding: 4%;
+}
+
+.subtitulo{
+    color: gray;
+}
+
+.sobreNos{
+    padding: 4%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+    max-height: fit-content;
+}
+
+.sobreNos a{
+    font-size: 2.1vw;
+}
+
+.slides{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.caroulsel{
+    transition-duration: 2000s;
+}
+
+.caroulsel-item img{
+    width: 100%;
+}
+
+.regioes{
+    padding: 4%;
+    max-height: fit-content;
+}

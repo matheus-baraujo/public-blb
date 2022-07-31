@@ -1,0 +1,18 @@
+/* css - conteudo da pagina where we worked */
+
+.content-where{
+    background-color: white;
+}
+
+.topo-pagina-where{
+    background-image: url(../images/topo-ondeAtuamos.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    color: white;
+}
+
+.where{
+    padding: 4%;
+    color: black;
+}
